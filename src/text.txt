@@ -1,0 +1,6 @@
+npm create-react-app <app name>
+install react styled componenets, react icons,
+1. npm install react-icons --save
+2. npm install --save react-router-dom
+3. npm install --save styled-components
+4. 
